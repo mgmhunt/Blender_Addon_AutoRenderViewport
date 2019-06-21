@@ -3,6 +3,7 @@
 ## ALPHA USE AT OWN RISK
 (Hacked together quickly but it semi-works on Mac, Blender 2.80 beta - there are some timers etc that might lock up Blender but it seems to run OK at the mo... )
 
+## Description
 Panel can be found under 3D View > View > Render Viewport
 
 Will save the OpenGL viewport to a file (location and dimensions defined in render settings), every 'interval' when the Auto Render button is toggled on. Turn it off to change the frequency and then turn it back on again. Manual Render will trigger a single render.
