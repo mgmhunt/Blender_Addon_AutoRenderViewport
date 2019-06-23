@@ -22,9 +22,9 @@ Could assign shortcut key to Manual Render to avoid UI lag.
 - Different file format and rendering settings then the actual render (although having the same settings pixel-wise makes sure render will fit external layout mockup?)
 
 ### Code Issues
-- Better handling of Timers... not sure how to manage the memory objects
+- Better handling of Timers...
 - Write to tmp file and then overwrite the main file (to avoid linked programs trying to read while Blender is writing)
-- Much error checking etc!!
+- More robust and better workflow - live interval change, or lock input until Auto off
 
 ## License
 
