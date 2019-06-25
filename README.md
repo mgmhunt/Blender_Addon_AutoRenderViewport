@@ -25,6 +25,7 @@ Could assign shortcut key to Manual Render to avoid UI lag.
 - Better handling of Timers...
 - Write to tmp file and then overwrite the main file (to avoid linked programs trying to read while Blender is writing)
 - More robust and better workflow - live interval change, or lock input until Auto off
+- Is screenshot better/faster? https://docs.blender.org/api/master/bpy.ops.screen.html?highlight=bpy%20ops%20screen%20screenshot#bpy.ops.screen.screenshot
 
 ## License
 
