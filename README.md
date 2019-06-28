@@ -32,3 +32,5 @@ Could assign shortcut key to Manual Render to avoid UI lag.
 Blender Addon - Auto Render Viewport is released under the GNU General Public License
 
 https://www.gnu.org/licenses/gpl-3.0.html
+
+See Ton's (Blender Founder) blog about license - https://code.blender.org/2019/06/blender-is-free-software/
